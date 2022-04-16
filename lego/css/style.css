@@ -1,0 +1,142 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    }
+section{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 0.8em;
+    color: rgb(68, 68, 68);
+    padding-bottom: 0.5%;
+    margin-top: 0.5%;
+}
+#zone{
+    display: inline-block;
+    background-color: rgb(132, 210, 255);
+    color: black;
+    padding: 0.5%;
+}
+#zone:hover{
+    background-color: white;
+}
+#shop{
+    width: 100%;
+    background-color: rgb(255, 221, 31);
+    padding: 0.7% 1.3% 0.7% 1.3% ;
+    font-size:1.2em ;
+}
+#shop img{
+    display: inline-block;
+    width: 55px;
+}
+#first{
+    color: rgb(51, 49, 49);
+}
+#second{
+    width: 5%;
+}
+#hfs img{
+    width: 99%;
+    display: inline-block;
+    text-align: center;
+}
+#hfs{
+    background-image: url(https://www.lego.com/cdn/cs/set/assets/blt68afd6df8327ac60/Mario-Day-Referring-Assets-202203-alt-Hero-Standard-Large.jpg?fit=crop&format=webply&quality=80&width=1600&height=500&dpr=1);
+    display: inline-block;
+    padding: 10% 20% 10% 5%;
+}
+#hfs p{
+    display: inline-block;
+    padding-top: 1%;
+    color: rgb(48, 45, 45);
+    text-align: center;
+}
+#now{
+    color: black;
+}
+#more{
+    color: black;
+}
+#dyde p{
+    font-size: 3em;
+}
+#rec img{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.tov {
+    width: 100%;
+    display: flex;
+    
+}
+#ne{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+#ex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+#of{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+#be{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+#mu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+#ea{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+#sp{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+#v{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+#dre{
+    width: 94%;
+    background-color: rgb(255, 221, 31);
+    color: black;
+    padding: 3%;
+}
+#dre div{
+    background-color: rgb(255, 221, 31);
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#dre a{
+    color:black;
+}
+footer{
+    background-color: rgb(255, 221, 31);
+}
+
